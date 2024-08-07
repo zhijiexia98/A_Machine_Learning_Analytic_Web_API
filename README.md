@@ -21,7 +21,9 @@ ls manage.py \
 If it gives you ”no such file or directory” as an error, you may need to change directories again. \
 • Run the following command and go to http://127.0.0.1:8000/ on your browser.\
 python manage.py runserver
+## Service Architecture
 ![](./99221d34-3a30-4a9c-8068-d91b5fb47385.png)
+## Features
 ![](./20b966e4-72a5-47ac-9384-b2a6198df212.png)
 ![](./e47374ed-dc60-4a97-84dc-06cb366d5983.png)
 
